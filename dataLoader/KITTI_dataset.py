@@ -25,6 +25,7 @@ satmap_dir = 'satmap'
 grdimage_dir = 'raw_data'
 left_color_camera_dir = 'image_02/data'  # 'image_02\\data' #
 right_color_camera_dir = 'image_03/data'  # 'image_03\\data' #
+
 oxts_dir = 'oxts/data'  # 'oxts\\data' #
 
 GrdImg_H = 256  # 256 # original: 375 #224, 256
@@ -35,8 +36,10 @@ num_thread_workers = 2
 
 # train_file = './dataLoader/train_files.txt'
 train_file = './dataLoader/train_files_0928.txt'
-test1_file = './dataLoader/test1_files.txt'
-test2_file = './dataLoader/test2_files.txt'
+test1_file = './dataLoader/test2_files_0928.txt'
+test2_file = './dataLoader/test2_files_0928.txt'
+# test1_file = './dataLoader/test1_files.txt'
+# test2_file = './dataLoader/test2_files.txt'
 
 
 
