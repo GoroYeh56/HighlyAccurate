@@ -34,7 +34,7 @@ GrdOriImg_W = 1242
 num_thread_workers = 2
 
 # train_file = './dataLoader/train_files.txt'
-train_file = './dataLoader/train_files_0926.txt'
+train_file = './dataLoader/train_files_0928.txt'
 test1_file = './dataLoader/test1_files.txt'
 test2_file = './dataLoader/test2_files.txt'
 
