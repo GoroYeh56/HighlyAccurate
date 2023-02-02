@@ -15,7 +15,7 @@ import torch.nn.functional as F
 from torch.utils.data import DataLoader
 from torchvision import transforms
 
-root_dir = '/../Kitti' # '../../data/Kitti' # '../Data' #'..\\Data' #
+root_dir = '../Kitti' # '../../data/Kitti' # '../Data' #'..\\Data' #
 # root_dir = '/media/yujiao/6TB/dataset/Kitti1' # '../../data/Kitti' # '../Data' #'..\\Data' #
 
 
